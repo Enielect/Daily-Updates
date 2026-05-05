@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "f27e3cb93a63e5cc",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "58a6f13c0256ac25",
+            "id": "db89fbc9e60571cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2026/May/03-05-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-05-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Not enough time now/First set (04-05-3036).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for First set (04-05-3036)"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Not enough time now/First set (04-05-3036).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from First set (04-05-3036)"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Not enough time now/First set (04-05-3036).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of First set (04-05-3036)"
             }
           }
         ]
@@ -199,8 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc428ab0ea731fa6",
+  "active": "db89fbc9e60571cc",
   "lastOpenFiles": [
-    "Welcome.md"
+    "2026/May/04-05-2026.md",
+    "2026/May/05-05-2026.md",
+    "2026/May/03-05-2026.md",
+    "Not enough time now/First set (04-05-3036).md",
+    "Pasted image 20260504201919.png",
+    "Not enough time now",
+    "Untitled.md",
+    "2026/May",
+    "Welcome.md",
+    "2026"
   ]
 }
